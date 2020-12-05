@@ -4,10 +4,10 @@
 Данная программа написана на языке программирования Ruby.
 
 ## Для запуска игры вам необходимо выполнить следующие команды:
-1. ```$ git clone git@github.com:cyprus11/hangman.git```
-2. ```$ cd hangman```
-3. ```$ bundle install```
-4. ```$ bundle exec ruby main.rb```
+```$ git clone git@github.com:cyprus11/hangman.git
+$ cd hangman
+$ bundle install
+$ bundle exec ruby main.rb```
 
 ## Правила игры:
 1. Игрок может допустить 7 ошибок;
