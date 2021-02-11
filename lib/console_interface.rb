@@ -44,7 +44,7 @@ class ConsoleInterface
     @game.errors.join(', ')
   end
 
-  def get_input
+  def input
     print 'Введите следующую букву: '
     gets[0].upcase
   end

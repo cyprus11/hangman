@@ -9,7 +9,7 @@ console_interface = ConsoleInterface.new(game)
 
 until game.over?
   console_interface.print_out
-  letter = console_interface.get_input
+  letter = console_interface.input
   game.play!(letter)
 end
 
